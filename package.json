@@ -1,6 +1,6 @@
 {
   "name": "rmc-pull-updown-to-refresh",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "react pull to refresh react component",
   "main": "lib/rmc-pull-updown-to-refresh.production.min.js",
   "scripts": {
@@ -24,18 +24,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmc-pull-updown-to-refresh.git"
+    "url": "https://github.com/eightfeet/rmc-pull-updown-to-refresh.git"
   },
   "author": "eightfeet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rmc-pull-updown-to-refresh/issues"
+    "url": "https://github.com/eightfeet/rmc-pull-updown-to-refresh/issues"
   },
   "files": [
     "lib",
     "src"
   ],
-  "homepage": "https://github.com/rmc-pull-updown-to-refresh#readme",
+  "homepage": "https://github.com/eightfeet/rmc-pull-updown-to-refresh/blob/master/README.md",
   "keywords": [
     "react",
     "pull to refresh",
